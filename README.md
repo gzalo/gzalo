@@ -18,9 +18,9 @@ I'm really keen on designing software, hardware and firmware.
 
 ### How to reach me 📫
 
-[<img align="left" alt="gzalo | Web" width="22px" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" />][web]
-[<img align="left" alt="gzalo | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
-[<img align="left" alt="gzalo | Youtube" width="22px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />][youtube]
+[<img align="left" alt="gzalo | Web" width="22px" src="https://cdn-icons-png.flaticon.com/32/2301/2301129.png" />][web]
+[<img align="left" alt="gzalo | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/32/174/174857.png" />][linkedin]
+[<img align="left" alt="gzalo | Youtube" width="22px" src="https://cdn-icons-png.flaticon.com/32/174/174883.png" />][youtube]
 
 [web]: https://gzalo.com
 [linkedin]: https://www.linkedin.com/in/gonzalo-avila-alterach-21a63626/
