@@ -14,7 +14,7 @@ I'm really keen on designing software, hardware and firmware.
 
 ### Ongoing work 👨🏻‍🏭
 
-[I use GitHub Projects to track most of my ongoing personal projects, you can check them out here](https://github.com/gzalo?tab=projects)
+[I use GitHub Projects to track most of my ongoing personal projects, you can check them out here](https://github.com/gzalo?tab=projects&type=classic)
 
 ### How to reach me 📫
 
