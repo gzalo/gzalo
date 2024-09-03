@@ -12,10 +12,6 @@ I really enjoy designing open software, hardware and firmware for the community 
 - Signal processing and robotics :robot:
 - Computer networks and other communication protocols 🖧
 
-### Ongoing work 👨🏻‍🏭
-
-[I use GitHub Projects to track most of my ongoing personal projects, you can check them out here](https://github.com/gzalo?tab=projects&type=classic)
-
 ### How to reach me 📫
 
 You can find my email on the left column, or browse my social media accounts here:
