@@ -1,18 +1,19 @@
-### Hi there 👋
+### Hi!
 
 I'm Gonzalo Avila Alterach, an _Electronics Engineer_ graduated from the University of Buenos Aires in Argentina.
 
 I really enjoy designing open software, hardware and firmware for the community and various companies.
 
-### Interests :boom:
+### Interests
 
-- Embedded systems ⚡
-- Emulators of obscure platforms, graphics programming :joystick:
-- Reverse engineering ⚙️
-- Signal processing and robotics :robot:
-- Computer networks and other communication protocols 🖧
+- Embedded systems
+- Emulators of obscure platforms, graphics programming
+- Reverse engineering
+- Signal processing and robotics
+- Ham radio, RF circuits (I'm [LU6CGA](https://www.qrz.com/db/LU6CGA))
+- Computer networks and other communication protocols
 
-### How to reach me 📫
+### How to reach me
 
 You can find my email on the left column, or browse my social media accounts here:
 
